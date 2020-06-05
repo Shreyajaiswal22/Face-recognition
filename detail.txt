@@ -1,0 +1,14 @@
+conda install opencv
+pip install opencv-contrib-python==3.4.2.16
+
+###
+don't install this package
+
+pip install opencv-python==3.4.2.16
+###
+
+pip install pillow
+
+conda install -c anaconda tk
+
+C:\Users\acer>set path=c:\Python27
